@@ -1,5 +1,5 @@
-- [文档](/)
-- [SDK下载](/)
-- [开发者论坛](/)
-- [联富通](/)
+- [秒付文档](https://guanjingkai.github.io/BseSecondPay/)
+- [OpenAPI文档](https://guanjingkai.github.io/BseOpenApi/了)
+- [小精灵](http://www.huishouyin.cn)
+- [联富通]()
 

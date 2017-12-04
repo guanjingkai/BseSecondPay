@@ -1,23 +1,18 @@
 - 入门
-    - [✅ 规划](main/roadmap)
-    - [✅ 更新记录](main/update)
-    - [✅ 名词解释](main/name)
-    - [✅ 错误码](api/errorCode)
-    - [✅ 签名规则](main/sign)
+    - [规划](main/roadmap)
+    - [更新记录](main/update)
+    - [名词解释](main/name)
 - 整体逻辑
-    - [✅ 整体流程](main/all)
-    - [✅ 同步方案](main/tongbu)
-- SC API
-    - [✅ 桌码同步](boot/user)
-- SC Webhooks 回调
-    - [✅ 订单状态回调](api/orderHooks)
+    - [同步方案](main/tongbu)
+    - [整体流程](main/all)
 - 秒付H5
-    - [✅ 获取订单成功](api/register)
-    - [✅ 获取订单失败](api/registerService)
-    - [✅ 支付成功](api/registerGroup)
-- 小程序服务台
-    - [✅ todo](api/payByQrcode)
-- Webhooks 回调
-    - [✅ 阿里云推送](api/orderHooks)
-- 小精灵后台
-    - [✅ todo](api/orderList)
+    - [获取订单成功](api/miaofuok)
+    - [获取订单失败](api/miaofuno)
+    - [支付成功](api/miaofupay)
+    - [订单详情](api/miaofuorder)
+- 相关API
+    - [桌码同步](boot/user)
+    - [SQL获取](boot/user)
+- 小精灵服务台
+    - [todo](api/payByQrcode)
+
