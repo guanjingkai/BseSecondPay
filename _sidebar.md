@@ -1,10 +1,11 @@
 - 入门
     - [规划](main/roadmap)
     - [更新记录](main/update)
+    - [需求背景](main/beijing)
     - [名词解释](main/name)
 - 整体逻辑
-    - [同步方案](main/tongbu)
     - [整体流程](main/all)
+    - [同步方案](main/tongbu)
 - 秒付H5
     - [获取订单成功](api/miaofuok)
     - [获取订单失败](api/miaofuno)
@@ -14,5 +15,6 @@
     - [桌码同步](boot/user)
     - [SQL获取](boot/user)
 - 小精灵服务台
-    - [todo](api/payByQrcode)
+    - [快捷菜单](api/taidan)
+    - [数据库设置](api/taisqlset)
 
